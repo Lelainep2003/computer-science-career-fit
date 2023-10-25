@@ -47,3 +47,4 @@ app.config['MONGO_URI'] = f'mongodb+srv://{MONGO_DB_USERNAME}:{MONGO_DB_PASSWORD
 mongo = PyMongo(app)
 ```
 3. To access the collections in this database use `mongo.db.collection_name`
+# computer-science-career-fit
